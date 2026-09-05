@@ -16,7 +16,6 @@ A simple counter application built using **HTML**, **CSS**, and **JavaScript**. 
 * **CSS3**
 * **JavaScript (ES6)**
 
-
 ## Project Purpose
 
 This project was built to practice:
@@ -25,6 +24,10 @@ This project was built to practice:
 * Event Handling
 * JavaScript Functions
 * Variables and Conditions
+
+## 🔗 Live Demo
+
+[View Live Website](https://zubair-dev786.github.io/Counter-Application/)
 
 ## Author
 
